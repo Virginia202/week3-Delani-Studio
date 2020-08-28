@@ -5,16 +5,29 @@
     transition: all 0.5s ease-in;
 }
 
+body{
+    text-align: center;
+}
+
 #first{
     background-image: url(/images/h_img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     color: white;
+    height: 53vh;
+}
+
+#second{
+    margin: 60px auto;
+    color: black;
 
 }
 
-
-body{
-    text-align: center;
+#third{
+    background-image: url(/images/s_image.jpg);
+    color: white;
+    padding: 100px;
+    font-size: larger;
 }
+
