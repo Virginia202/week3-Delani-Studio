@@ -15,7 +15,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     color: white;
-    height: 53vh;
+    height: 49vh;
 }
 
 #second{
@@ -29,5 +29,12 @@ body{
     color: white;
     padding: 100px;
     font-size: larger;
+}
+#fourth{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: black;
+    font-size: x-large;
+    font-weight: bolder;
 }
 
