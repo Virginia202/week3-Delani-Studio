@@ -39,5 +39,16 @@ body{
 }
 .our,.all,.planning{
     display: none;
+    margin-top: 5px;
 }
 
+.container{
+    color: black;
+
+} 
+#portfolio,#portfolio2{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+     padding: 5px;
+} 
