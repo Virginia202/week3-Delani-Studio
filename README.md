@@ -5,7 +5,7 @@
 ## Description
 This project's aim is to help practice some basic concept in jquery,bootstrap,javascript,html and css.
 ## Setup/Installation Requirements
-clone or download this repository
+clone or download this repository.
 ## Technologies Used
 ### Languages used
 * HTML
@@ -15,6 +15,8 @@ clone or download this repository
 * Bootstrap
 ### Libraries
 * Jquery
+## Known bug
+The hover effect does not work as it is supposed to.
 ## Support and contact details
 Email: virgisonie20@gmail.com
 ### License
