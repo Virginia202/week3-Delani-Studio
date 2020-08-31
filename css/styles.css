@@ -37,6 +37,8 @@ body{
     font-size: x-large;
     font-weight: bolder;
 }
+
+
 .our,.all,.planning{
     display: none;
     margin-top: 5px;
