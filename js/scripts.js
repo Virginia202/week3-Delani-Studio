@@ -44,3 +44,119 @@ $(document).ready(function(){
     })
 });
 
+
+$( "#port1" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port1" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+  
+
+  $( "#port2" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port2" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+
+  $( "#port3" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port3" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+  
+  $( "#port4" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port4" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+
+  $( "#port5" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port5" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+
+  $( "#port6" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port6" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+
+  $( "#port7" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port7" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+
+  $( "#port8" ).hover(
+    function() {
+        $( this ).append( $( "<span>portfolio</span>" ) );
+    }, function() {
+      $( this ).find( "span" ).last().remove();
+    }
+  );
+   
+  $( "#port8" ).hover(function() {
+    $( this ).fadeOut( 100 );
+    $( this ).fadeIn( 500 );
+  });
+
+
+
+  
+
+  
+
+  
+
+
+  

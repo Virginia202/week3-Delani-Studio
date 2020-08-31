@@ -56,9 +56,15 @@ body{
     background-color: rgb(223, 207, 207);
 } */
 
-.port1:hover{
-  background-color: rgb(238, 225, 225);
+/* #port1:hover{
+  background-color: rgb(206, 28, 28);
+} */
+
+span{
+  margin-left: 0;
+  width: 100%;
 }
+
 
 #contact{
     background-image: url(/images/c_image.jpg);

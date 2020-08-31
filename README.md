@@ -13,6 +13,8 @@ clone or download this repository
 * JAVASCRIPT
 ### Framework
 * Bootstrap
+### Libraries
+* Jquery
 ## Support and contact details
 Email: virgisonie20@gmail.com
 ### License
