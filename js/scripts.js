@@ -35,6 +35,7 @@ $(document).ready(function(){
         var display1 = $('input:first').val();
         var display2 = $('input#mail').val();
         if(display1 && display2 != ''){
+            //user-interface
             alert ('Thank you ' + display1 + ' your message has been received');
         }else {
             alert ('Invalid input');
